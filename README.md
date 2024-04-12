@@ -1,6 +1,6 @@
 ## Overview
 
-This application is a simple random GIF generator built using React and the API Axioms. It allows users to generate a random GIF directly or specify a tag to get a GIF related to that tag. The application also leverages the concept of custom hooks in React for managing stateful logic.
+This application is a simple random GIF generator built using React and the API Axios. It allows users to generate a random GIF directly or specify a tag to get a GIF related to that tag. The application also leverages the concept of custom hooks in React for managing stateful logic.
 
 ## Features
 
@@ -29,7 +29,7 @@ This application is a simple random GIF generator built using React and the API 
 ## Technologies Used
 
 * React: A JavaScript library for building user interfaces.
-* API Axioms: A service providing access to a vast collection of GIFs.
+* API Axios: A service providing access to a vast collection of GIFs.
 * Tailwind CSS: A CSS framework
 
 ## Custom Hooks
